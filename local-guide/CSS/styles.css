@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;  
+    font-size: 20px;
+    color: white;
+    background-color: rgb(48, 48, 48);
+    margin-left: 100px;
+    text-align: center;
+
+}
+
+h1{
+    font-weight: 900;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(29, 29, 29);
+    margin-left: -90px;
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+a{
+    color: lightgray;
+    font-style: italic;
+}
+
+.address{
+    font-weight: bold;
+}
+
